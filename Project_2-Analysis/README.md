@@ -2,8 +2,7 @@
 # Project 2 Analysis
 
 ## Introduction
-
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a job seeker, I've been on the search for more data exploring the most optimal way to approach jobs in the data science market. I set out to understand the what skills are in high demand by employers and how acheive a well paying job. 
 
 ### Questions to Analyze
 
@@ -58,7 +57,7 @@ It includes detailed information on:
 
 #### 🔗 Load
 
-- Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
+- Finally, I loaded both transformed queries into the workbook, setting the foundation for my analysis.
     - 📊 data_jobs_all
 
         ![2_Project_Analysis_Screenshot3.png](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
@@ -176,6 +175,4 @@ It includes detailed information on:
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
-
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+As a data enthusiast and a job seeker, I explored this Excel-based project to find valuable insights about the data science job market. Using a dataset from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By utilizing Excel features like Power Query, PivotTables, DAX, and charts, I discovered correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
